@@ -28,7 +28,7 @@ Requirements:
 <li>How to create web Server and run it</li>
 <li>How to connect Front-End and Back-End</li>
 <li>How create route</li>
-<li>How use Featch-API</li>
+<li>How use Fetch-API</li>
 <li>How hide and unhide Elements in front</li>
 <li>How use command git in terminal</li>
 </ul>
