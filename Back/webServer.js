@@ -12,7 +12,7 @@ app.get('/', (req, res) => {
 });
 
 
-app.post("/reqBmi", (req, res) => {
+app.post("/counter", (req, res) => {
   let weight = req.body.weight;
   let height = req.body.height;
   let result = bmi.bmiCounter(weight,height);
