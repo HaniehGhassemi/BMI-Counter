@@ -31,6 +31,7 @@ Requirements:
 <li>How use Fetch-API</li>
 <li>How hide and unhide Elements in front</li>
 <li>How use command git in terminal</li>
+<li>Should not commit and push node_modules,should be added to gitignore</li>
 </ul>
 <br><br><br>
  <h2>:ok_hand: Helpful Tutorial</h2>
