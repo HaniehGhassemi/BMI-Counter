@@ -46,7 +46,7 @@ Requirements:
 <h2>:question: How Run this Project?</h2>
 <ul>
 <li>Download and install Node.js pakage from <a href="https://nodejs.org/en/download/" target="_blank">here</a></li>
-<li>Install npm and express from <a href="https://expressjs.com/en/starter/installing.html" target="_blank">here</a></li>
+<li>Install npm from <a href="https://expressjs.com/en/starter/installing.html" target="_blank">here</a></li>
 <li>Open this repository in VS Code with <a href="https://github.com/HaniehGhassemi/BMI-Counter.git" target="_blank">this</a> link</li>
 <li>open terminal in vs code</li>
 <li>For run web server,first go to Back folder!for do this write this command on terminal => cd Back</li>
