@@ -1,4 +1,4 @@
-#:abacus:BMI Calculator Project
+:abacus:<h2> BMI Calculator Project</h2>
 This repository is a practice project to learn the development steps as follows:
 <ul>
 <li>Create Git repository</li>
@@ -12,7 +12,7 @@ This repository is a practice project to learn the development steps as follows:
 <li>Preparing a document on how to implement the project</li>
 </ul>
 <br><br><br>
-#:hammer_and_wrench:Tools And Packages
+:hammer_and_wrench:<h2> Tools And Packages</h2>
 IDE: <a href="https://code.visualstudio.com" target="_blank">Visual Stodio Code</a>
 IDE Extensions that I use in this project:<a href="https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode" target="_blank"> Prettier</a>
 Package:
@@ -21,7 +21,7 @@ Package:
 <li>express</li>
 </ul>
 <br><br><br>
-#:writing_hand::what I Learned
+:writing_hand:<h2> what I Learned</h2>
 <ul>
 <li>Front-End and Back-End must be implemented in separate folders!even in small projects</li>
 <li>How to create web Server and run it</li>
@@ -32,7 +32,7 @@ Package:
 <li>How use command git in terminal</li>
 </ul>
 
-#:ok_hand:Helpful Tutorial
+:ok_hand: <h2> Helpful Tutorial</h2>
 <ul>
 <li><a href="https://expressjs.com/en/starter/installing.html" target="_blank">Express JS website</li>
 <li><a https://www.w3schools.com/js/js_htmldom.asp" target="_blank">W3 Schools website - part JS/HTML DOM</li>
@@ -41,6 +41,6 @@ Package:
 </ul>
 
 
-#:question: How Run this Project?
+  :question:<h2> How Run this Project?</h2>
 
 
