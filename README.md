@@ -13,8 +13,8 @@ This repository is a practice project to learn the development steps as follows:
 </ul>
 <br><br><br>
 <h2>:hammer_and_wrench: Tools And Packages</h2>
-IDE: <a href="https://code.visualstudio.com" target="_blank">Visual Stodio Code</a>
-IDE Extensions that I use in this project:<a href="https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode" target="_blank"> Prettier</a>
+IDE: <a href="https://code.visualstudio.com" target="_blank">Visual Stodio Code</a><br>
+IDE Extensions that I use in this project:<a href="https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode" target="_blank"> Prettier</a><br>
 Package:
 <ul>
 <li>npm</li>
